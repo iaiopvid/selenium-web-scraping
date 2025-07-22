@@ -1,0 +1,4 @@
+selenium
+tqdm
+mariadb
+# psycopg2-binary 
