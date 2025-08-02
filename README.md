@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Desafio Fidelity - SPV Bot
+# 🕵️‍♂️ Selenium Web Scraping - SPV Bot
 
 Este projeto realiza consultas automatizadas em plataformas de Tribunal Jurídico utilizando Selenium, com dados armazenados em um banco MariaDB e/ou Postegres.
 
